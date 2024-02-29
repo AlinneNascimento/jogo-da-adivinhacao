@@ -3,5 +3,11 @@
 ## Sobre
 <p>Projeto usado para aprendizado inicial em linguagem C++</p>
 
-#Aluno(a)
+## Aluno(a)
 [<br><sub>Alinne Nascimento</sub>](https://github.com/AlinneNascimento) 
+
+## Instituição
+Alura
+
+## Professor
+Gabriel Fernandes
